@@ -1,1 +1,1 @@
-"# MarchingCubes" 
+Marching cubes implementation in Godot.
